@@ -4,6 +4,9 @@
 # Visual Studio 2015 database file
 *.VC.db
 
+# IntelliJ IDEA Product Familiy Project Files
+**/.idea
+
 # Compiled Object files
 *.slo
 *.lo
