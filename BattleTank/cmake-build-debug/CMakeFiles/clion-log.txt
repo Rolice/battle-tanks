@@ -1,4 +1,0 @@
-/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/rolice/Development/Game/Unreal/04_BattleTank/BattleTank
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/rolice/Development/Game/Unreal/04_BattleTank/BattleTank/cmake-build-debug
