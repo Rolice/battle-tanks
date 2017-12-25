@@ -1,0 +1,5 @@
+/Users/rolice/Development/Game/Unreal/04_BattleTank/BattleTank/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rolice/Development/Game/Unreal/04_BattleTank/BattleTank/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rolice/Development/Game/Unreal/04_BattleTank/BattleTank/cmake-build-debug/CMakeFiles/PleaseIgnoreMe.dir
+/Users/rolice/Development/Game/Unreal/04_BattleTank/BattleTank/cmake-build-debug/CMakeFiles/BattleTankEditor-Development-CLEAN.dir
+/Users/rolice/Development/Game/Unreal/04_BattleTank/BattleTank/cmake-build-debug/CMakeFiles/BattleTankEditor-Development.dir
